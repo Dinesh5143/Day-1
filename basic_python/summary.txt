@@ -1,0 +1,4 @@
+*learned what is git.
+*started working with git bash.
+*learned how to set path in working directory.
+*cloned repository, created branch, and applied git commit ,push.
